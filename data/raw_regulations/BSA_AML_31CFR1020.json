@@ -1,0 +1,8 @@
+{
+  "id": "BSA_AML_31CFR1020",
+  "title": "Bank Secrecy Act / USA PATRIOT Act: Customer Identification and Suspicious Activity Reporting (31 CFR 1020.220)",
+  "authority": "FinCEN / Federal Financial Regulators",
+  "category": "Money Laundering & Illegal Finance",
+  "subcategory": "Suspicious Transaction Monitoring",
+  "text": "Financial institutions are required to establish, maintain, and enforce written Customer Identification Programs (CIP) and Anti-Money Laundering compliance programs.\nA covered financial institution must verify customer identity, monitor accounts for suspicious activity, and promptly file Suspicious Activity Reports (SARs) and Currency Transaction Reports (CTRs) for transactions exceeding regulatory thresholds.\nStructuring transactions, splitting deposits to evade $10,000 reporting thresholds, or failing to report known structuring constitutes a direct federal felony."
+}

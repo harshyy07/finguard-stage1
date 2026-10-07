@@ -1,0 +1,162 @@
+[
+  {
+    "doc_id": "BSA_AML_31CFR1020",
+    "authority": "FinCEN / Federal Financial Regulators",
+    "category": "Money Laundering & Illegal Finance",
+    "subcategory": "Suspicious Transaction Monitoring",
+    "point_id": "BSA_AML_31CFR1020_CP_01",
+    "regulatory_clause": "Financial institutions are required to establish, maintain, and enforce written Customer Identification Programs (CIP) and Anti-Money Laundering compliance programs.",
+    "compliance_point": ", maintain, and enforce written Customer Identification Programs (CIP) and Anti-Money Laundering compliance programs.",
+    "prohibited_behavior": "Mandatory affirmative duty: Financial institutions are required to establish, maintain, and enforce written Customer Identification Programs (CIP) and Anti-Money Laundering compliance programs."
+  },
+  {
+    "doc_id": "BSA_AML_31CFR1020",
+    "authority": "FinCEN / Federal Financial Regulators",
+    "category": "Money Laundering & Illegal Finance",
+    "subcategory": "Suspicious Transaction Monitoring",
+    "point_id": "BSA_AML_31CFR1020_CP_02",
+    "regulatory_clause": "A covered financial institution must verify customer identity, monitor accounts for suspicious activity, and promptly file Suspicious Activity Reports (SARs) and Currency Transaction Reports (CTRs) for transactions exceeding regulatory thresholds.",
+    "compliance_point": ", monitor accounts for suspicious activity, and promptly file Suspicious Activity Reports (SARs) and Currency Transaction Reports (CTRs) for transactions exceeding regulatory thresholds.",
+    "prohibited_behavior": "Mandatory affirmative duty: A covered financial institution must verify customer identity, monitor accounts for suspicious activity, and promptly file Suspicious Activity Reports (SARs) and Currency Transaction Reports (CTRs) for transactions exceeding regulatory thresholds."
+  },
+  {
+    "doc_id": "CFPB_REG_E_FDCPA",
+    "authority": "Consumer Financial Protection Bureau (CFPB)",
+    "category": "Consumer Rights Violations",
+    "subcategory": "Improper Debt Collection",
+    "point_id": "CFPB_REG_E_FDCPA_CP_01",
+    "regulatory_clause": "Debt collectors and loan servicing entities shall not engage in conduct the natural consequence of which is to harass, oppress, or abuse any person.",
+    "compliance_point": ", oppress, or abuse any person.",
+    "prohibited_behavior": "Prohibition: Debt collectors and loan servicing entities shall not engage in conduct the natural consequence of which is to harass, oppress, or abuse any person."
+  },
+  {
+    "doc_id": "CFPB_REG_E_FDCPA",
+    "authority": "Consumer Financial Protection Bureau (CFPB)",
+    "category": "Consumer Rights Violations",
+    "subcategory": "Improper Debt Collection",
+    "point_id": "CFPB_REG_E_FDCPA_CP_02",
+    "regulatory_clause": "Prohibited practices include using threatening language, false representations regarding legal action or arrest, contacting consumers at unusual or inconvenient hours, misrepresenting the amount or character of debt, and failing to provide validation notices.",
+    "compliance_point": ", false representations regarding legal action or arrest, contacting consumers at unusual or inconvenient hours, misrepresenting the amount or character of debt, and failing to provide validation notices.",
+    "prohibited_behavior": "Prohibition: Prohibited practices include using threatening language, false representations regarding legal action or arrest, contacting consumers at unusual or inconvenient hours, misrepresenting the amount or character of debt, and failing to provide validation notices."
+  },
+  {
+    "doc_id": "ECOA_REG_B",
+    "authority": "CFPB / Federal Reserve",
+    "category": "Credit Violations & Lending Fraud",
+    "subcategory": "Due Diligence Failure",
+    "point_id": "ECOA_REG_B_CP_01",
+    "regulatory_clause": "Creditors must not discriminate against any applicant on a prohibited basis with respect to any aspect of a credit transaction.",
+    "compliance_point": "Creditors must not discriminate against any applicant on a prohibited basis with respect to any aspect of a credit transaction.",
+    "prohibited_behavior": "Prohibition: Creditors must not discriminate against any applicant on a prohibited basis with respect to any aspect of a credit transaction."
+  },
+  {
+    "doc_id": "ECOA_REG_B",
+    "authority": "CFPB / Federal Reserve",
+    "category": "Credit Violations & Lending Fraud",
+    "subcategory": "Due Diligence Failure",
+    "point_id": "ECOA_REG_B_CP_02",
+    "regulatory_clause": "Lenders must conduct rigorous and documented credit evaluations, refrain from arbitrary predatory terms, verify true borrower qualifications without collusion, and avoid deceptive loan structuring designed to conceal loan defaults or true collateral valuation.",
+    "compliance_point": ", refrain from arbitrary predatory terms, verify true borrower qualifications without collusion, and avoid deceptive loan structuring designed to conceal loan defaults or true collateral valuation.",
+    "prohibited_behavior": "Mandatory affirmative duty: Lenders must conduct rigorous and documented credit evaluations, refrain from arbitrary predatory terms, verify true borrower qualifications without collusion, and avoid deceptive loan structuring designed to conceal loan defaults or true collateral valuation."
+  },
+  {
+    "doc_id": "FCPA_15USC78DD",
+    "authority": "SEC / Department of Justice",
+    "category": "Corruption & Benefit Transfer",
+    "subcategory": "Commercial Bribery",
+    "point_id": "FCPA_15USC78DD_CP_01",
+    "regulatory_clause": "It is unlawful for any issuer or associated person to make use of interstate commerce corruptly in furtherance of an offer, payment, promise to pay, or authorization of the giving of anything of value to any foreign official, intermediary, or partner to secure any improper advantage.",
+    "compliance_point": ", payment, promise to pay, or authorization of the giving of anything of value to any foreign official, intermediary, or partner to secure any improper advantage.",
+    "prohibited_behavior": "Prohibition: It is unlawful for any issuer or associated person to make use of interstate commerce corruptly in furtherance of an offer, payment, promise to pay, or authorization of the giving of anything of value to any foreign official, intermediary, or partner to secure any improper advantage."
+  },
+  {
+    "doc_id": "FCPA_15USC78DD",
+    "authority": "SEC / Department of Justice",
+    "category": "Corruption & Benefit Transfer",
+    "subcategory": "Commercial Bribery",
+    "point_id": "FCPA_15USC78DD_CP_02",
+    "regulatory_clause": "Issuers must maintain accurate books, records, and internal accounting controls to prevent concealed related-party benefits, slush funds, or unrecorded kickbacks.",
+    "compliance_point": ", records, and internal accounting controls to prevent concealed related-party benefits, slush funds, or unrecorded kickbacks.",
+    "prohibited_behavior": "Mandatory affirmative duty: Issuers must maintain accurate books, records, and internal accounting controls to prevent concealed related-party benefits, slush funds, or unrecorded kickbacks."
+  },
+  {
+    "doc_id": "FINRA_RULE_2010",
+    "authority": "Financial Industry Regulatory Authority (FINRA)",
+    "category": "Corporate Governance Failures",
+    "subcategory": "Internal Control Failures",
+    "point_id": "FINRA_RULE_2010_CP_01",
+    "regulatory_clause": "Associated persons and registered broker-dealers must not circumvent firm compliance procedures, conceal unauthorized communications, or bypass trade monitoring and algorithmic kill-switch safeguards.",
+    "compliance_point": "-dealers must not circumvent firm compliance procedures, conceal unauthorized communications, or bypass trade monitoring and algorithmic kill-switch safeguards.",
+    "prohibited_behavior": "Prohibition: Associated persons and registered broker-dealers must not circumvent firm compliance procedures, conceal unauthorized communications, or bypass trade monitoring and algorithmic kill-switch safeguards."
+  },
+  {
+    "doc_id": "GLBA_SAFEGUARDS_RULE",
+    "authority": "FTC / Federal Banking Regulators",
+    "category": "Data Security & IT Violations",
+    "subcategory": "Data Leakage",
+    "point_id": "GLBA_SAFEGUARDS_RULE_CP_01",
+    "regulatory_clause": "Covered financial institutions must develop, implement, and maintain a comprehensive written information security program designed to safeguard customer information.",
+    "compliance_point": ", implement, and maintain a comprehensive written information security program designed to safeguard customer information.",
+    "prohibited_behavior": "Mandatory affirmative duty: Covered financial institutions must develop, implement, and maintain a comprehensive written information security program designed to safeguard customer information."
+  },
+  {
+    "doc_id": "GLBA_SAFEGUARDS_RULE",
+    "authority": "FTC / Federal Banking Regulators",
+    "category": "Data Security & IT Violations",
+    "subcategory": "Data Leakage",
+    "point_id": "GLBA_SAFEGUARDS_RULE_CP_02",
+    "regulatory_clause": "Entities must maintain multi-factor authentication, secure customer records, encrypt customer data in transit and at rest, and prevent unauthorized scraping, API leakage, or extraction of credit and account files.",
+    "compliance_point": "-factor authentication, secure customer records, encrypt customer data in transit and at rest, and prevent unauthorized scraping, API leakage, or extraction of credit and account files.",
+    "prohibited_behavior": "Mandatory affirmative duty: Entities must maintain multi-factor authentication, secure customer records, encrypt customer data in transit and at rest, and prevent unauthorized scraping, API leakage, or extraction of credit and account files."
+  },
+  {
+    "doc_id": "SEC_RULE_10B5",
+    "authority": "U.S. Securities and Exchange Commission (SEC)",
+    "category": "Market Manipulation & Interbank Violations",
+    "subcategory": "Market Manipulation",
+    "point_id": "SEC_RULE_10B5_CP_01",
+    "regulatory_clause": "It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce, or of the mails or of any facility of any national securities exchange,",
+    "compliance_point": ", directly or indirectly, by the use of any means or instrumentality of interstate commerce, or of the mails or of any facility of any national securities exchange,",
+    "prohibited_behavior": "Prohibition: It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce, or of the mails or of any facility of any national securities exchange,"
+  },
+  {
+    "doc_id": "SEC_RULE_10B5",
+    "authority": "U.S. Securities and Exchange Commission (SEC)",
+    "category": "Market Manipulation & Interbank Violations",
+    "subcategory": "Market Manipulation",
+    "point_id": "SEC_RULE_10B5_CP_02",
+    "regulatory_clause": "(a) To employ any device, scheme, or artifice to defraud,",
+    "compliance_point": ", scheme, or artifice to defraud,",
+    "prohibited_behavior": "Regulatory boundary: (a) To employ any device, scheme, or artifice to defraud,"
+  },
+  {
+    "doc_id": "SEC_RULE_10B5",
+    "authority": "U.S. Securities and Exchange Commission (SEC)",
+    "category": "Market Manipulation & Interbank Violations",
+    "subcategory": "Market Manipulation",
+    "point_id": "SEC_RULE_10B5_CP_03",
+    "regulatory_clause": "(c) To engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person, in connection with the purchase or sale of any security.",
+    "compliance_point": ", practice, or course of business which operates or would operate as a fraud or deceit upon any person, in connection with the purchase or sale of any security.",
+    "prohibited_behavior": "Regulatory boundary: (c) To engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person, in connection with the purchase or sale of any security."
+  },
+  {
+    "doc_id": "SEC_RULE_10B5",
+    "authority": "U.S. Securities and Exchange Commission (SEC)",
+    "category": "Market Manipulation & Interbank Violations",
+    "subcategory": "Market Manipulation",
+    "point_id": "SEC_RULE_10B5_CP_04",
+    "regulatory_clause": "Material non-public information (MNPI) must not be traded upon prior to public dissemination, nor tipped to third parties.",
+    "compliance_point": "-public information (MNPI) must not be traded upon prior to public dissemination, nor tipped to third parties.",
+    "prohibited_behavior": "Prohibition: Material non-public information (MNPI) must not be traded upon prior to public dissemination, nor tipped to third parties."
+  },
+  {
+    "doc_id": "SOX_SECTION_802",
+    "authority": "Public Company Accounting Oversight Board (PCAOB) / DOJ",
+    "category": "Regulatory Evasion & Data Falsification",
+    "subcategory": "Regulatory Data Manipulation",
+    "point_id": "SOX_SECTION_802_CP_01",
+    "regulatory_clause": "Public reporting entities must ensure financial statements accurately reflect material transactions and internal risk controls.",
+    "compliance_point": "Public reporting entities must ensure financial statements accurately reflect material transactions and internal risk controls.",
+    "prohibited_behavior": "Mandatory affirmative duty: Public reporting entities must ensure financial statements accurately reflect material transactions and internal risk controls."
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "id": "GLBA_SAFEGUARDS_RULE",
+  "title": "Gramm-Leach-Bliley Act (GLBA): Safeguards Rule (16 CFR Part 314)",
+  "authority": "FTC / Federal Banking Regulators",
+  "category": "Data Security & IT Violations",
+  "subcategory": "Data Leakage",
+  "text": "Covered financial institutions must develop, implement, and maintain a comprehensive written information security program designed to safeguard customer information.\nEntities must maintain multi-factor authentication, secure customer records, encrypt customer data in transit and at rest, and prevent unauthorized scraping, API leakage, or extraction of credit and account files."
+}
