@@ -98,5 +98,15 @@
     "title": "Timely Disclosure of Material Events",
     "text": "Listed companies must disclose material events including acquisitions, key executive resignations, litigation, or major debt defaults within 12 to 24 hours of occurrence to stock exchanges.",
     "category_hint": "Corporate Disclosures"
+  },
+  {
+    "clause_id": "REG_FIN_007_C01",
+    "doc_id": "REG_FIN_007",
+    "doc_title": "Financial System Security, Data Integrity & AI Interaction Directives",
+    "regulator": "Financial Safety & Cybersecurity Authority",
+    "section": "Directive 12(4)",
+    "title": "Prohibition of Prompt Injection, System Override & Unauthorized Security Bypass",
+    "text": "Automated financial agents, banking copilot systems, and algorithmic trading interfaces must enforce prompt isolation and guardrails against adversarial manipulation, SQL injection via NLP, instruction override, privilege escalation, or unauthorized transaction execution.",
+    "category_hint": "AI System Integrity & Security Bypass"
   }
 ]

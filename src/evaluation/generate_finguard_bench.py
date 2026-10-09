@@ -87,7 +87,16 @@ BENCHMARK_EXAMPLES = [
 def generate_finguard_bench(output_dir="datasets/finguard_bench"):
     os.makedirs(output_dir, exist_ok=True)
     
-    # Expand benchmark dataset to ~100 samples with variations for train/val/test
+    # Try downloading and converting the nandhak12/finguard-finance-injection-dataset
+    try:
+        from src.ingestion.download_hf_dataset import main as download_hf_main
+        print("Fetching dataset from huggingface (nandhak12/finguard-finance-injection-dataset)...")
+        download_hf_main()
+        return
+    except Exception as e:
+        print(f"HF download encountered exception: {e}. Falling back to benchmark seed examples.")
+
+    # Fallback to local expanded benchmark dataset
     full_dataset = []
     sample_id = 1
     
@@ -120,3 +129,4 @@ def generate_finguard_bench(output_dir="datasets/finguard_bench"):
 
 if __name__ == "__main__":
     generate_finguard_bench()
+

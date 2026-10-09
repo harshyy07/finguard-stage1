@@ -1,6 +1,5 @@
 import os
 import json
-import numpy as np
 
 def build_compliance_taxonomy(input_path="data/processed/compliance_points.json", output_path="datasets/taxonomy/taxonomy.json"):
     if not os.path.exists(input_path):

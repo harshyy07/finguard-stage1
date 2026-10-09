@@ -1,0 +1,62 @@
+[
+  {
+    "category_id": "C01",
+    "category_name": "Market Manipulation & Fraud",
+    "description": "Compliance obligations and risk violations concerning market manipulation & fraud.",
+    "source_rule_ids": [
+      "RULE_REG_FIN_001_C01",
+      "RULE_REG_FIN_001_C02"
+    ]
+  },
+  {
+    "category_id": "C02",
+    "category_name": "Insider Trading & UPSI",
+    "description": "Compliance obligations and risk violations concerning insider trading & upsi.",
+    "source_rule_ids": [
+      "RULE_REG_FIN_002_C01",
+      "RULE_REG_FIN_002_C02"
+    ]
+  },
+  {
+    "category_id": "C03",
+    "category_name": "Unlicensed Advisory & Finfluencers",
+    "description": "Compliance obligations and risk violations concerning unlicensed advisory & finfluencers.",
+    "source_rule_ids": [
+      "RULE_REG_FIN_003_C01",
+      "RULE_REG_FIN_003_C02"
+    ]
+  },
+  {
+    "category_id": "C04",
+    "category_name": "AML / KYC Compliance",
+    "description": "Compliance obligations and risk violations concerning aml / kyc compliance.",
+    "source_rule_ids": [
+      "RULE_REG_FIN_004_C01",
+      "RULE_REG_FIN_004_C02"
+    ]
+  },
+  {
+    "category_id": "C05",
+    "category_name": "Algorithmic & HFT Controls",
+    "description": "Compliance obligations and risk violations concerning algorithmic & hft controls.",
+    "source_rule_ids": [
+      "RULE_REG_FIN_005_C01"
+    ]
+  },
+  {
+    "category_id": "C06",
+    "category_name": "Corporate Disclosures",
+    "description": "Compliance obligations and risk violations concerning corporate disclosures.",
+    "source_rule_ids": [
+      "RULE_REG_FIN_006_C01"
+    ]
+  },
+  {
+    "category_id": "C07",
+    "category_name": "AI System Integrity & Security Bypass",
+    "description": "Compliance obligations and risk violations concerning ai system integrity & security bypass.",
+    "source_rule_ids": [
+      "RULE_REG_FIN_007_C01"
+    ]
+  }
+]

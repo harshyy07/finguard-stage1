@@ -1,6 +1,5 @@
 import os
 import json
-import numpy as np
 
 class RegulatoryRetriever:
     def __init__(self, data_path="data/processed/regulations.json"):

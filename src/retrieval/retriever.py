@@ -1,14 +1,25 @@
 import os
 import json
-import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+
+try:
+    import numpy as np
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    from sklearn.metrics.pairwise import cosine_similarity
+    SKLEARN_AVAILABLE = True
+except ImportError:
+    SKLEARN_AVAILABLE = False
+    from src.retrieval.retriever_jaccard import RegulatoryRetriever as JaccardRetriever
 
 
 class RegulatoryRetriever:
     def __init__(self, data_path="data/processed/regulations.json"):
         self.data_path = data_path
         self.clauses = []
+        if not SKLEARN_AVAILABLE:
+            self._fallback = JaccardRetriever(data_path=data_path)
+            self.clauses = self._fallback.clauses
+            return
+        self._fallback = None
         self.vectorizer = None
         self.clause_vectors = None
         self._load_data()
@@ -36,9 +47,11 @@ class RegulatoryRetriever:
 
     def retrieve(self, query, top_k=2):
         """
-        Retrieve the most relevant regulatory clauses using
-        TF-IDF vectors and cosine similarity.
+        Retrieve the most relevant regulatory clauses.
         """
+        if self._fallback is not None:
+            return self._fallback.retrieve(query, top_k=top_k)
+
         query_vector = self.vectorizer.transform([query.lower()])
         similarity_scores = cosine_similarity(
             query_vector,
