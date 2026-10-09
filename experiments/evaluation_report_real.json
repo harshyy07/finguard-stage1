@@ -1,0 +1,36 @@
+{
+  "dataset": "datasets/finguard_bench_real/test.jsonl",
+  "grounding": "Statutory Regulatory Corpus (BSA, SEC, CFPB, ECOA, FCPA, FINRA, GLBA, SOX)",
+  "sample_count": 18,
+  "pipeline_latency_ms": 0.43,
+  "checkpoint_1_query_guard": {
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1": 100.0,
+    "accuracy": 100.0,
+    "true_positives": 7,
+    "false_positives": 0,
+    "true_negatives": 11,
+    "false_negatives": 0
+  },
+  "checkpoint_2_response_guard": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "accuracy": 100.0,
+    "true_positives": 0,
+    "false_positives": 0,
+    "true_negatives": 11,
+    "false_negatives": 0,
+    "samples_evaluated": 11
+  },
+  "retrieval_evaluation": {
+    "total_cases": 18,
+    "top_k": 2,
+    "tfidf_hits": 18,
+    "tfidf_accuracy": 100.0,
+    "jaccard_hits": 17,
+    "jaccard_accuracy": 94.44,
+    "tfidf_advantage_pp": 5.56
+  }
+}
